@@ -1,2 +1,2 @@
 # akka-http-comet
-Experimental project for support comet by socket.io with akka-http
+Experimental project for support comet on top of akka-http
