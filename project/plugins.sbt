@@ -4,3 +4,5 @@ resolvers += Resolver.url(
     Resolver.ivyStylePatterns)
 
 addSbtPlugin("com.banno" % "sbt-license-plugin" % "0.1.4")
+
+addSbtPlugin("io.spray" % "sbt-revolver" % "0.7.2")
